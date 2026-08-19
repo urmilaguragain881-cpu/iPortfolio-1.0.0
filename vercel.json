@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/iPortfolio-1.0.0/redesigned-portfolio/index.html"
+    },
+    {
+      "source": "/assets/:path*",
+      "destination": "/iPortfolio-1.0.0/assets/:path*"
+    },
+    {
+      "source": "/forms/:path*",
+      "destination": "/iPortfolio-1.0.0/forms/:path*"
+    }
+  ]
+}
