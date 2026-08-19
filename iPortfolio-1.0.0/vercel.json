@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/redesigned-portfolio/index.html"
+    },
+    {
+      "source": "/style.css",
+      "destination": "/redesigned-portfolio/style.css"
+    },
+    {
+      "source": "/script.js",
+      "destination": "/redesigned-portfolio/script.js"
+    }
+  ]
+}
