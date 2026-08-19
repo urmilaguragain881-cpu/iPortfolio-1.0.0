@@ -9,6 +9,14 @@
       "destination": "/iPortfolio-1.0.0/assets/:path*"
     },
     {
+      "source": "/style.css",
+      "destination": "/iPortfolio-1.0.0/redesigned-portfolio/style.css"
+    },
+    {
+      "source": "/script.js",
+      "destination": "/iPortfolio-1.0.0/redesigned-portfolio/script.js"
+    },
+    {
       "source": "/forms/:path*",
       "destination": "/iPortfolio-1.0.0/forms/:path*"
     }
